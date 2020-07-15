@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/box.png</file>
+        <file>res/goal.png</file>
+        <file>res/ground.png</file>
+        <file>res/PDown.png</file>
+        <file>res/PLeft.png</file>
+        <file>res/PRight.png</file>
+        <file>res/wall.png</file>
+        <file>res/PUp.png</file>
+        <file>res/PDown2.png</file>
+        <file>res/PDown3.png</file>
+        <file>res/PLeft2.png</file>
+        <file>res/PLeft3.png</file>
+        <file>res/PRight2.png</file>
+        <file>res/PRight3.png</file>
+        <file>res/PUp2.png</file>
+        <file>res/PUp3.png</file>
+        <file>res/bomb.jpg</file>
+        <file>res/poop.png</file>
+        <file>res/coin.jpg</file>
+        <file>res/logo.jpg</file>
+        <file>res/Webp.net-resizeimage.png</file>
+    </qresource>
+</RCC>
