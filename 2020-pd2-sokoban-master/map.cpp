@@ -23,13 +23,13 @@ void Map::setmapname(int n)
 {
     switch (n) {
     case 1:
-        name = "/home/pd2/sokoban/2020-pd2-sokoban-master/stage1.txt";
+        name = "/home/pd2/Desktop/sokoban/2020-pd2-sokoban-master/stage1.txt";
         break;
     case 2:
-        name = "/home/pd2/sokoban/2020-pd2-sokoban-master/stage2.txt";
+        name = "/home/pd2/Desktop/sokoban/2020-pd2-sokoban-master/stage2.txt";
         break;
     default:
-        name = "/home/pd2/sokoban/2020-pd2-sokoban-master/stage1.txt";
+        name = "/home/pd2/Desktop/sokoban/2020-pd2-sokoban-master/stage1.txt";
         break;
     }
 }
